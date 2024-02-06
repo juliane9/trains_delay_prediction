@@ -1,5 +1,5 @@
 # French Trains Delay Prediction App
-A simple train delay predictor 
+A simple train delay predictor, in python and using random forest regressor.
 
 ## Features 
 A simple attempt at predicting French trains delay, based on the SNCF report from 2018 to 2023 of the delays on each train route every day. The app is built in python and allow user to open it in web browsner to :
