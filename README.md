@@ -10,9 +10,8 @@ A simple attempt at predicting French trains delay, based on the SNCF report fro
 ## Getting Started
 
 ### Prerequisites:
-
-Python installed on your machine
-A modern web browser
+- Python installed on your machine
+- A modern web browser
 
 ### Installation
 
