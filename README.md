@@ -49,4 +49,4 @@ Fork the repository. Create a new branch: git checkout -b feature/your_feature_n
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgements 
-Special thanks to SNCF website for providing data about the delays of the French trains between 2018 and 2023, accessible at *https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv-aqst/export*
+Special thanks to SNCF website for providing data about the delays of the French trains between 2018 and 2023, accessible at *https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv-aqst/export*.
