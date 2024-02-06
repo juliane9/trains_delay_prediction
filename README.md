@@ -41,7 +41,7 @@ Several improvements could be made, including (but not limited to):
 - a more fitted way to determine whether a train will be late (which is so far decided with an indicator type random variable, predicting a "delay" if more then 10% of the past trains for this route-month combination were late). 
 
 ### Please follow these steps to contribute:
-Fork the repository. Create a new branch: git checkout -b feature/your_feature_name. Make your changes and commit them: git commit -am 'Add some feature'. Push to the branch: git push origin feature/your_feature_name. Submit a pull request.
+Fork the repository. Create a new branch: *git checkout -b feature/your_feature_name*. Make your changes and commit them: *git commit -am 'Add some feature'*. Push to the branch: *git push origin feature/your_feature_name*. Submit a pull request.
 
 
 ## License
