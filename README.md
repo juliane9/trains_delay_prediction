@@ -37,7 +37,7 @@ To submit your data about your train delay, you need to enter the *departure sta
 ## Contributions and improvements of the model
 Contributions to the trains predictor project are welcome ! So far, this project uses a simple Random Forest Regressor model to predict the amount of the delay, based on past causes of delay and the month of the journey for each route. 
 Several improvements could be made, including (but not limited to):
-- adding a "day of the week" factor to the prediction
+- adding a "day of the week" factor to the prediction (unfortunateéy so far the data provided does not contain this information)
 - adding a weather feature
 - a more fitted way to determine whether a train will be late (which is so far decided with an indicator type random variable, predicting a "delay" if more then 10% of the past trains for this route-month combination were late). 
 
