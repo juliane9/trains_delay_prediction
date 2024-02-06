@@ -27,7 +27,7 @@ Type *http://127.0.0.1:5000* in a web browser to load the web page. "Beaware, th
 
 
 ## Usage
-To get a predction, enter a month in a numeric format (1 to 12) and route, in the format *departure-arrival*. Then click on predict. If a train is predicted to be delayed, the predicted amount of the delay will be shown as well as a bar graph with the past causes of delays for this route-month combination will be dispalyed. If it is predicted to be on time, the predictor will simply say so. 
+To get a predction, enter a month in a numeric format (1 to 12) and route, in the format *departure-arrival*. Then click on predict. If a train is predicted to be delayed, the predicted amount of the delay will be shown as well as a bar graph with the past causes of delays for this route-month combination. If it is predicted to be on time, the predictor will simply say so. 
 
 To submit your data about your train delay, you need to enter the *departure station*, *arrival station*, *month of the journey*, *month* of the journey, as well as select a cause for the delay. If the cause is not known or does not fit in any of the pre-defined category, select *unknown*. Please, enter data only if it comes from a journey taken after 2023.
 
